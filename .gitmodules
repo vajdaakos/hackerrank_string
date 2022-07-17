@@ -1,3 +1,6 @@
 [submodule "01_ctci-making-anagrams"]
 	path = 01_ctci-making-anagrams
 	url = https://github.com/vajdaakos/01_ctci-making-anagrams
+[submodule "03-sherlock-and-valid-string"]
+	path = 03-sherlock-and-valid-string
+	url = https://github.com/vajdaakos/03-sherlock-and-valid-string.git
