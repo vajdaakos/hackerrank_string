@@ -4,3 +4,6 @@
 [submodule "03-sherlock-and-valid-string"]
 	path = 03-sherlock-and-valid-string
 	url = https://github.com/vajdaakos/03-sherlock-and-valid-string.git
+[submodule "02-alternating-characters"]
+	path = 02-alternating-characters
+	url = https://github.com/vajdaakos/02-alternating-characters.git
